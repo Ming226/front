@@ -1,0 +1,17 @@
+p {
+    color:rgb(16, 26, 1);
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+h2 {
+  text-align:left;
+}
+body{
+  background-color:rgba(23, 192, 243, 0.5);
+  background-image:url(file:///C:/Users/任毅/Desktop/壁纸/6e2103afd87abf9198413b8b021760e0.jpg);
+  background-position:center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
